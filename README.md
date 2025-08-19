@@ -1,6 +1,6 @@
 # 📚 Personal Digital Library Platform
 
-AllTogether is a modern **personal digital library** where anyone can sign up, upload PDFs/books, and read them later with a **beautiful, book-like experience** (page-turn animations planned). It’s built with production-quality, modular React + TypeScript and a polished UI.
+LibraryPro is a modern **personal digital library** where anyone can sign up, upload PDFs/books, and read them later with a **beautiful, book-like experience** (page-turn animations planned). It’s built with production-quality, modular React + TypeScript and a polished UI.
 
 ---
 
