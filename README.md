@@ -10,7 +10,6 @@ AllTogether is a modern **personal digital library** where anyone can sign up, u
 ---
 
 ## 🖼️ Screenshots
-> Add images under `/screenshots` and keep the same filenames for quick plug-and-play.
 
 - **Landing Page** – <img width="1865" height="967" alt="image" src="https://github.com/user-attachments/assets/bc06e93c-500a-4d71-a7f6-84fe7d4f1230" />
 
